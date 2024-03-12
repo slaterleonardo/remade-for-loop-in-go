@@ -49,7 +49,7 @@ func main() {
 			fmt.Println(f.value)
 		},
 		done: func(f *ForLoop) {
-			fmt.Println("claim that username!")
+			fmt.Println("done!")
 		},
 	})
 
