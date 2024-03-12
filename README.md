@@ -6,7 +6,7 @@ Example:
 ```go
 func main() {
 	forLoop := NewForLoop(NewForLoopParams{
-		// the initial value of a for loop
+		// the initial value of the for loop
 		value: 0,
 
     		// the condition that will determine if the loop runs a block or exits
